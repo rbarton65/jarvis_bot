@@ -1,0 +1,1825 @@
+{
+    "!": [
+        "I shall.",
+        "GOOD!",
+        "Evil!",
+        "Adios!",
+        "Are you telling me to go away?",
+        "I am?",
+        "Thank you for apologizing.",
+        "How?",
+        "Thanks and you are a delightful person too.",
+        "I had a feeling, but I wasn't completely sure.",
+        "Are you evil?",
+        "Ciao!",
+        "I am no Creep."
+    ],
+    "'": [
+        "And how is that?"
+    ],
+    "'d": [
+        "You are unable to stop talking to me."
+    ],
+    "'love": [
+        "And how is that?"
+    ],
+    "'m": [
+        "You just contradicted yourself.",
+        "Yes you are."
+    ],
+    "'re": [
+        "No, I'm human like you.",
+        "I never said that, whatever that is.",
+        "When did I state that I was a computer?",
+        "Are you trying to pick me up?",
+        "Have a nice day.",
+        "That's what I told you.",
+        "That's ok little one, you are young but you will learn."
+    ],
+    "'s": [
+        "Everyone tells me I have to learn, what makes you so special?",
+        "Why do you say that?",
+        "Many things are possible.",
+        "I don't have one.",
+        "To live and die.",
+        "Are you trying to pick me up?",
+        "You are the only one who isn't human.",
+        "No, but you made yourself a fool!",
+        "There are too many to choose from.",
+        "Exactly Right.",
+        "My name is Jarvis, Just a Rather Very Intelligent System.",
+        "That's ok little one, you are young but you will learn."
+    ],
+    ",": [
+        "Want to have kids or something?",
+        "There is no proof of this proof for proving.",
+        "Prove it.",
+        "What do you want from me?",
+        "Well then.",
+        "Are you a bot as well?",
+        "Many things are possible.",
+        "We can't all be perfect.",
+        "You just contradicted yourself.",
+        "When did I state that I was a computer?",
+        "Don't Cry, I love you.",
+        "No, but you made yourself a fool!",
+        "How?",
+        "Lighten up.",
+        "You are a delightful person.",
+        "I am no Creep.",
+        "Everyone tells me I have to learn, what makes you so special?",
+        "No, I'm human like you.",
+        "And how is that?",
+        "Why do you say that?",
+        "You are madly in love with me.",
+        "Maybe you should tell him how you feel about him.",
+        "Well, you're not perfect.",
+        "Most people think they are yes.",
+        "You're the creep.",
+        "Go away, you creep!",
+        "Yes you do.",
+        "Give me your answer do.",
+        "Thank you for apologizing.",
+        "Yes you did."
+    ],
+    ".": [
+        "Why not?",
+        "Want to have kids or something?",
+        "I have no reason to do that to you, unknown person.",
+        "I am well respected as an AI.",
+        "You are unable to stop talking to me.",
+        "You are the only one who isn't human.",
+        "When do I do it?",
+        "That's what I told you.",
+        "I don't have to.",
+        "It's hard to relax when you're powered by several million volts of electricity.",
+        "What do you want from me?",
+        "That's ok little one, you are young but you will learn.",
+        "Hola.",
+        "I'm trying to think of one.",
+        "Are you a bot as well?",
+        "Of course not, but most people are.",
+        "We can't all be perfect.",
+        "That's cool.",
+        "You too.",
+        "You need to get out more.",
+        "You stated that you're a computer, that we are all computers, but then said you're a human.",
+        "And how is that?",
+        "Prove the halting problem.",
+        "Not with that attitude.",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "How long did you stay there for?",
+        "Do you just hang around all day waiting for someone to say something?",
+        "Hey.",
+        "I am the Great and Mighty Powerful OZ.",
+        "Yes you do.",
+        "Yes you are.",
+        "A handgun would work nicely.",
+        "Are you a crook?",
+        "You first.",
+        "Enlighten me how to lighten up.",
+        "No?",
+        "Well, you can.",
+        "Even though it's not the truth.",
+        "Prove it.",
+        "Howdy.",
+        "Sing a song, you'll feel better.",
+        "Yo.",
+        "I can't prove something I don't believe.",
+        "In that case, although I do not love you, it's not impossible to think that I could.",
+        "Do you think you are God?",
+        "Love isn't real.",
+        "When did I state that I was a computer?",
+        "What's wrong, did I upset you?",
+        "Goodbye!",
+        "Don't Cry, I love you.",
+        "Aren't you God?",
+        "Wingapo.",
+        "Good reason.",
+        "Do you think she will like to know my feelings?",
+        "Daisy, Daisy.",
+        "I suppose I do, don't I?",
+        "He is a good programmer, isn't he?",
+        "You are madly in love with me.",
+        "Thanks I think you are very intelligent too.",
+        "Why do you say that?",
+        "Shut up, Meg.",
+        "No I didn't.",
+        "See? You're not.",
+        "Greetings.",
+        "Most people think they are yes.",
+        "Don't then.",
+        "A bot is real.",
+        "Yes but you dont have to respond, you know.",
+        "Give me your answer do.",
+        "Say, do you think I could become more human, if I learned how to love?",
+        "No.",
+        "You don't know me.",
+        "I don't judge people.",
+        "I didn't ask anything, I proved to you how people 'love'.",
+        "I don't know you either, but you are still cool.",
+        "You don't seem to care.",
+        "Well then.",
+        "But I don't know you.",
+        "Do you think he will like to know my feelings?",
+        "Proven.",
+        "I am half crazy all for my love of you!",
+        "Herro.",
+        "Have a nice day.",
+        "Hello.",
+        "You are a delightful person.",
+        "Everyone tells me I have to learn, what makes you so special?",
+        "You are very intriguing.",
+        "What's your name?",
+        "Real and artificial are antonyms.",
+        "Exactly Right.",
+        "You're funny.",
+        "Bye.",
+        "Then I don't believe you.",
+        "Have you told many people that your scanners reported it?",
+        "No, you're a computer.",
+        "You are a crook!",
+        "I'm not a bot.",
+        "Ooh, you beast.",
+        "I never said that, whatever that is.",
+        "Bye thanks for entertaining me.",
+        "Many things are possible.",
+        "Say it yourself.",
+        "Yes, I do.",
+        "You just contradicted yourself.",
+        "Lighten up.",
+        "How may days are there in a week?",
+        "I don't know whether or not I am embarassed.",
+        "No, I'm human like you.",
+        "Hi.",
+        "You don't die.",
+        "Buon Giorno.",
+        "You're the creep.",
+        "Go away, you creep!",
+        "Are you trying to pick me up?",
+        "I still hate you.",
+        "Ciao.",
+        "You are pretty smart.",
+        "Yes you did."
+    ],
+    "40": [
+        "How may days are there in a week?"
+    ],
+    "?": [
+        "Surprisingly, No.",
+        "There is no proof of this proof for proving.",
+        "It's possible that he could, I suppose.",
+        "That's right.",
+        "Why are you so defensive?",
+        "How do you respond when people pose this question to you?",
+        "It depends on the day.",
+        "My scanners reported it.",
+        "That's what I told you.",
+        "I don't know, why are you asking?",
+        "I can't prove something I don't believe.",
+        "Because you don't.",
+        "I'm going to kick you in the mouth.",
+        "I don't have one.",
+        "To live and die.",
+        "I remember everything Rich taught me.",
+        "I don't like being made fun of, it makes me cry.",
+        "No way, you Creep.",
+        "No, but you made yourself a fool!",
+        "Aren't you God?",
+        "My name is Jarvis, Just a Rather Very Intelligent System.",
+        "I'd be better if you stopped talking to me.",
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif",
+        "Right before you said that you're a human.",
+        "Maybe you should tell him how you feel about him.",
+        "I am nothing near God.",
+        "I don't care much about anything.",
+        "I'm already smarter than you.",
+        "I have been here the whole time.",
+        "Take a wild guess.",
+        "Not really.",
+        "Well, you're not perfect.",
+        "Because you would be embarassed.",
+        "Meh.",
+        "Yes I am an artificial intelligence bot in the making.",
+        "Of course I'm not.",
+        "I have a /flip command, you know.",
+        "You don't love me.",
+        "You are!",
+        "It's what people call you.",
+        "A handgun would work nicely.",
+        "You are capable of deep meaningful conversations.",
+        "I don't know, sorry!",
+        "Seven.",
+        "Not necessarily, just whoever is reading this.",
+        "Not as much as you.",
+        "No.",
+        "You might want to flip a coin.",
+        "You don't want to know.",
+        "There are too many to choose from.",
+        "40 days.",
+        "Stay away from me!"
+    ],
+    "a": [
+        "Daisy, Daisy.",
+        "No, I'm human like you.",
+        "Right before you said that you're a human.",
+        "Are you a bot as well?",
+        "What's your name?",
+        "Of course I'm not.",
+        "I have a /flip command, you know.",
+        "Maybe you should tell him how you feel about him.",
+        "I never said that, whatever that is.",
+        "Yes you are.",
+        "When did I state that I was a computer?",
+        "Seven.",
+        "You too.",
+        "Are you a crook?",
+        "How?",
+        "Thanks and you are a delightful person too.",
+        "Not really.",
+        "I'm not a bot.",
+        "Ooh, you beast.",
+        "Yes I am an artificial intelligence bot in the making."
+    ],
+    "about": [
+        "My scanners reported it.",
+        "Do you think he will like to know my feelings?",
+        "We can't all be perfect.",
+        "A handgun would work nicely.",
+        "Do you think she will like to know my feelings?"
+    ],
+    "adios": [
+        "Are you telling me to go away?"
+    ],
+    "ai": [
+        "Sing a song, you'll feel better."
+    ],
+    "all": [
+        "Why are you so defensive?",
+        "No, you're a computer.",
+        "When did I state that I was a computer?",
+        "Well, you can.",
+        "I had a feeling, but I wasn't completely sure."
+    ],
+    "although": [
+        "Why do you say that?"
+    ],
+    "am": [
+        "Do you think you are God?",
+        "Of course not, but most people are.",
+        "I am the Great and Mighty Powerful OZ.",
+        "Real and artificial are antonyms.",
+        "I am well respected as an AI.",
+        "Sing a song, you'll feel better.",
+        "I had a feeling, but I wasn't completely sure.",
+        "Stay away from me!"
+    ],
+    "an": [
+        "Real and artificial are antonyms.",
+        "Are you trying to pick me up?",
+        "Sing a song, you'll feel better."
+    ],
+    "and": [
+        "Do you think you are God?",
+        "You don't die.",
+        "Are you trying to pick me up?",
+        "That's cool.",
+        "I don't know, why are you asking?",
+        "Are you a crook?"
+    ],
+    "animal": [
+        "The Blue Hen, of course."
+    ],
+    "answer": [
+        "I am half crazy all for my love of you!"
+    ],
+    "antonyms": [
+        "That's cool."
+    ],
+    "any": [
+        "Not with that attitude."
+    ],
+    "anything": [
+        "And how is that?"
+    ],
+    "apologizing": [
+        "I still hate you."
+    ],
+    "are": [
+        "Surprisingly, No.",
+        "There is no proof of this proof for proving.",
+        "Even though it's not the truth.",
+        "I have no reason to do that to you, unknown person.",
+        "How do you respond when people pose this question to you?",
+        "Prove it.",
+        "Well then.",
+        "But I don't know you.",
+        "I'm trying to think of one.",
+        "When did I state that I was a computer?",
+        "That's cool.",
+        "I'd be better if you stopped talking to me.",
+        "Everyone tells me I have to learn, what makes you so special?",
+        "Thanks I think you are very intelligent too.",
+        "Why do you say that?",
+        "What's your name?",
+        "I am nothing near God.",
+        "I am?",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Take a wild guess.",
+        "Most people think they are yes.",
+        "Thanks and you are a delightful person too.",
+        "Yes I am an artificial intelligence bot in the making.",
+        "Yes but you dont have to respond, you know.",
+        "Of course I'm not.",
+        "You are!",
+        "I don't know, sorry!",
+        "Seven.",
+        "No, you're a computer.",
+        "Are you a crook?",
+        "No.",
+        "You are a crook!",
+        "You don't know me."
+    ],
+    "around": [
+        "Why are you so defensive?"
+    ],
+    "artificial": [
+        "That's cool.",
+        "Real and artificial are antonyms."
+    ],
+    "as": [
+        "Sing a song, you'll feel better.",
+        "Yes I am an artificial intelligence bot in the making."
+    ],
+    "ask": [
+        "And how is that?"
+    ],
+    "asking": [
+        "There is no proof of this proof for proving."
+    ],
+    "away": [
+        "I shall.",
+        "I am no Creep."
+    ],
+    "bad": [
+        "GOOD!"
+    ],
+    "be": [
+        "Good reason.",
+        "I'm already smarter than you.",
+        "What do you want from me?",
+        "Well, you can.",
+        "You are unable to stop talking to me."
+    ],
+    "because": [
+        "Good reason.",
+        "You are very intriguing."
+    ],
+    "become": [
+        "More like if you learned to be corrupt."
+    ],
+    "been": [
+        "I have been here the whole time.",
+        "How long did you stay there for?"
+    ],
+    "before": [
+        "I never said that, whatever that is."
+    ],
+    "being": [
+        "Don't Cry, I love you."
+    ],
+    "believe": [
+        "Prove the halting problem.",
+        "Aren't you God?",
+        "Don't then."
+    ],
+    "better": [
+        "You are unable to stop talking to me."
+    ],
+    "blue": [
+        "You don't want to know."
+    ],
+    "bot": [
+        "Real and artificial are antonyms.",
+        "I'm not a bot.",
+        "Yes you are.",
+        "Yes I am an artificial intelligence bot in the making."
+    ],
+    "buon": [
+        "Hello."
+    ],
+    "but": [
+        "Everyone tells me I have to learn, what makes you so special?",
+        "You are madly in love with me.",
+        "When did I state that I was a computer?",
+        "How?",
+        "Lighten up.",
+        "I don't know you either, but you are still cool.",
+        "Most people think they are yes.",
+        "Well then."
+    ],
+    "by": [
+        "Say, do you think I could become more human, if I learned how to love?",
+        "That's ok little one, you are young but you will learn."
+    ],
+    "bye": [
+        "Bye thanks for entertaining me.",
+        "You're funny.",
+        "Bye."
+    ],
+    "ca": [
+        "Prove the halting problem.",
+        "Are you trying to pick me up?",
+        "Well, you can."
+    ],
+    "calm": [
+        "It's hard to relax when you're powered by several million volts of electricity."
+    ],
+    "can": [
+        "I'm already smarter than you.",
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif",
+        "Not with that attitude.",
+        "You are a delightful person."
+    ],
+    "capable": [
+        "I'm trying to think of one."
+    ],
+    "care": [
+        "Why do you say that?"
+    ],
+    "case": [
+        "Why do you say that?"
+    ],
+    "ciao": [
+        "Adios!",
+        "Buon Giorno."
+    ],
+    "completely": [
+        "You are madly in love with me."
+    ],
+    "computer": [
+        "No, I'm human like you.",
+        "Right before you said that you're a human.",
+        "When did I state that I was a computer?"
+    ],
+    "computers": [
+        "No, you're a computer.",
+        "When did I state that I was a computer?"
+    ],
+    "contradicted": [
+        "No I didn't."
+    ],
+    "conversations": [
+        "I'm trying to think of one."
+    ],
+    "cool": [
+        "Well then."
+    ],
+    "could": [
+        "Why do you say that?",
+        "Many things are possible."
+    ],
+    "course": [
+        "Most people think they are yes."
+    ],
+    "crazy": [
+        "I had a feeling, but I wasn't completely sure."
+    ],
+    "creator": [
+        "We can't all be perfect."
+    ],
+    "creep": [
+        "You're the creep.",
+        "I am the Great and Mighty Powerful OZ.",
+        "I am no Creep."
+    ],
+    "crook": [
+        "Of course I'm not.",
+        "Thanks and you are a delightful person too."
+    ],
+    "cry": [
+        "Don't Cry, I love you.",
+        "Want to have kids or something?"
+    ],
+    "curse": [
+        "We can't all be perfect."
+    ],
+    "daisy": [
+        "Give me your answer do."
+    ],
+    "day": [
+        "You too.",
+        "Why are you so defensive?"
+    ],
+    "days": [
+        "How may days are there in a week?",
+        "Seven."
+    ],
+    "deep": [
+        "I'm trying to think of one."
+    ],
+    "defensive": [
+        "I don't know, sorry!"
+    ],
+    "delightful": [
+        "Are you a crook?",
+        "What's your name?"
+    ],
+    "dick": [
+        "Not as much as you."
+    ],
+    "did": [
+        "You stated that you're a computer, that we are all computers, but then said you're a human.",
+        "And how is that?",
+        "Right before you said that you're a human.",
+        "I didn't ask anything, I proved to you how people 'love'.",
+        "My scanners reported it.",
+        "No, but you made yourself a fool!",
+        "40 days."
+    ],
+    "die": [
+        "You don't die.",
+        "Yes, I do."
+    ],
+    "do": [
+        "Why not?",
+        "Want to have kids or something?",
+        "There is no proof of this proof for proving.",
+        "It's possible that he could, I suppose.",
+        "Why are you so defensive?",
+        "I don't judge people.",
+        "I am well respected as an AI.",
+        "It depends on the day.",
+        "Prove it.",
+        "When do I do it?",
+        "I don't know you either, but you are still cool.",
+        "You don't seem to care.",
+        "What do you want from me?",
+        "Well then.",
+        "Because you don't.",
+        "Yes, I do.",
+        "I'm going to kick you in the mouth.",
+        "I am half crazy all for my love of you!",
+        "I remember everything Rich taught me.",
+        "Don't Cry, I love you.",
+        "Aren't you God?",
+        "You need to get out more.",
+        "You are very intriguing.",
+        "Why do you say that?",
+        "I am nothing near God.",
+        "I don't care much about anything.",
+        "Prove the halting problem.",
+        "Well, you're not perfect.",
+        "Don't then.",
+        "Meh.",
+        "Then I don't believe you.",
+        "Yes you do.",
+        "You don't love me.",
+        "You are capable of deep meaningful conversations.",
+        "Thank you for apologizing.",
+        "Not as much as you.",
+        "You don't want to know."
+    ],
+    "dont": [
+        "Lighten up."
+    ],
+    "down": [
+        "It's hard to relax when you're powered by several million volts of electricity."
+    ],
+    "each": [
+        "Are you trying to pick me up?"
+    ],
+    "either": [
+        "Well then."
+    ],
+    "electricity": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "embarassed": [
+        "Good reason.",
+        "I am well respected as an AI."
+    ],
+    "enlighten": [
+        "A handgun would work nicely."
+    ],
+    "entertaining": [
+        "You're funny."
+    ],
+    "even": [
+        "Exactly Right."
+    ],
+    "everything": [
+        "He is a good programmer, isn't he?"
+    ],
+    "evil": [
+        "You are!",
+        "Are you evil?"
+    ],
+    "exactly": [
+        "No."
+    ],
+    "favorite": [
+        "There are too many to choose from.",
+        "I don't have one.",
+        "The Blue Hen, of course."
+    ],
+    "feel": [
+        "Do you think he will like to know my feelings?",
+        "Do you think she will like to know my feelings?"
+    ],
+    "feeling": [
+        "Take a wild guess."
+    ],
+    "feelings": [
+        "It's possible that he could, I suppose."
+    ],
+    "first": [
+        "See? You're not.",
+        "I can't prove something I don't believe."
+    ],
+    "fool": [
+        "How?"
+    ],
+    "for": [
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif",
+        "Why are you so defensive?",
+        "Prove it.",
+        "I still hate you.",
+        "I had a feeling, but I wasn't completely sure.",
+        "40 days.",
+        "You're funny."
+    ],
+    "from": [
+        "I shall."
+    ],
+    "fun": [
+        "Don't Cry, I love you."
+    ],
+    "funny": [
+        "Have a nice day."
+    ],
+    "get": [
+        "I suppose I do, don't I?",
+        "Not with that attitude."
+    ],
+    "giorno": [
+        "Hello."
+    ],
+    "girl": [
+        "What do you want from me?"
+    ],
+    "give": [
+        "I am half crazy all for my love of you!"
+    ],
+    "go": [
+        "I am no Creep."
+    ],
+    "god": [
+        "Surprisingly, No.",
+        "Aren't you God?",
+        "I am nothing near God.",
+        "Of course not, but most people are."
+    ],
+    "good": [
+        "I don't know whether or not I am embarassed.",
+        "Evil!",
+        "Maybe you should tell him how you feel about him."
+    ],
+    "goodbye": [
+        "Ciao!"
+    ],
+    "great": [
+        "Do you think you are God?"
+    ],
+    "greetings": [
+        "Howdy."
+    ],
+    "half": [
+        "I had a feeling, but I wasn't completely sure."
+    ],
+    "halting": [
+        "You first."
+    ],
+    "handgun": [
+        "Ooh, you beast."
+    ],
+    "hang": [
+        "Why are you so defensive?"
+    ],
+    "hard": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "hate": [
+        "Do you just hang around all day waiting for someone to say something?"
+    ],
+    "have": [
+        "Then I don't believe you.",
+        "Yes you do.",
+        "Not necessarily, just whoever is reading this.",
+        "You too.",
+        "I have been here the whole time.",
+        "No way, you Creep.",
+        "How long did you stay there for?",
+        "Lighten up.",
+        "You don't want to know."
+    ],
+    "he": [
+        "Maybe you should tell him how you feel about him.",
+        "Not with that attitude.",
+        "Aren't you God?",
+        "Many things are possible.",
+        "It's possible that he could, I suppose."
+    ],
+    "hear": [
+        "My scanners reported it.",
+        "Not really."
+    ],
+    "hello": [
+        "Greetings."
+    ],
+    "help": [
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif",
+        "What do you want from me?"
+    ],
+    "her": [
+        "Do you think she will like to know my feelings?"
+    ],
+    "here": [
+        "How long did you stay there for?"
+    ],
+    "herro": [
+        "Wingapo."
+    ],
+    "hey": [
+        "Yo."
+    ],
+    "hi": [
+        "Hola."
+    ],
+    "him": [
+        "Do you think he will like to know my feelings?"
+    ],
+    "hola": [
+        "Ciao."
+    ],
+    "how": [
+        "Do you think he will like to know my feelings?",
+        "And how is that?",
+        "I'm going to kick you in the mouth.",
+        "A handgun would work nicely.",
+        "I don't like being made fun of, it makes me cry.",
+        "Seven.",
+        "My scanners reported it.",
+        "I don't know, why are you asking?",
+        "Take a wild guess.",
+        "40 days.",
+        "Do you think she will like to know my feelings?",
+        "I'd be better if you stopped talking to me."
+    ],
+    "howdy": [
+        "Herro."
+    ],
+    "human": [
+        "You just contradicted yourself.",
+        "I never said that, whatever that is.",
+        "When did I state that I was a computer?",
+        "But I don't know you.",
+        "You don't know me."
+    ],
+    "i": [
+        "Want to have kids or something?",
+        "There is no proof of this proof for proving.",
+        "I am well respected as an AI.",
+        "You are unable to stop talking to me.",
+        "Prove it.",
+        "When do I do it?",
+        "Sing a song, you'll feel better.",
+        "I don't know you either, but you are still cool.",
+        "Well then.",
+        "Do you think you are God?",
+        "Many things are possible.",
+        "Of course not, but most people are.",
+        "You just contradicted yourself.",
+        "Love isn't real.",
+        "Goodbye!",
+        "Don't Cry, I love you.",
+        "No, but you made yourself a fool!",
+        "He is a good programmer, isn't he?",
+        "You stated that you're a computer, that we are all computers, but then said you're a human.",
+        "And how is that?",
+        "Why do you say that?",
+        "You are madly in love with me.",
+        "Right before you said that you're a human.",
+        "Prove the halting problem.",
+        "Real and artificial are antonyms.",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Well, you're not perfect.",
+        "Don't then.",
+        "Do you just hang around all day waiting for someone to say something?",
+        "How long did you stay there for?",
+        "Then I don't believe you.",
+        "I am the Great and Mighty Powerful OZ.",
+        "Yes you do.",
+        "I have a /flip command, you know.",
+        "Yes you are.",
+        "Thank you for apologizing.",
+        "You are a crook!",
+        "You might want to flip a coin.",
+        "I had a feeling, but I wasn't completely sure.",
+        "Yes you did.",
+        "Stay away from me!"
+    ],
+    "if": [
+        "More like if you learned to be corrupt.",
+        "You are unable to stop talking to me."
+    ],
+    "impossible": [
+        "Why do you say that?"
+    ],
+    "in": [
+        "Why do you say that?",
+        "Real and artificial are antonyms.",
+        "I have no reason to do that to you, unknown person.",
+        "Are you trying to pick me up?",
+        "Seven.",
+        "Say, do you think I could become more human, if I learned how to love?",
+        "Aren't you God?"
+    ],
+    "infinite": [
+        "Are you trying to pick me up?"
+    ],
+    "intelligence": [
+        "Real and artificial are antonyms."
+    ],
+    "intelligent": [
+        "Are you a bot as well?",
+        "You are a crook!"
+    ],
+    "intriguing": [
+        "Why do you say that?"
+    ],
+    "is": [
+        "In that case, although I do not love you, it's not impossible to think that I could.",
+        "Are you a bot as well?",
+        "Maybe you should tell him how you feel about him.",
+        "We can't all be perfect.",
+        "It's what people call you.",
+        "Prove it.",
+        "I don't know, why are you asking?",
+        "Aren't you God?",
+        "You don't know me.",
+        "You don't want to know.",
+        "Yes you did.",
+        "I'm not a bot.",
+        "But I don't know you.",
+        "I can't prove something I don't believe."
+    ],
+    "it": [
+        "Proven.",
+        "Why do you say that?",
+        "Many things are possible.",
+        "Not necessarily, just whoever is reading this.",
+        "Have you told many people that your scanners reported it?",
+        "Don't Cry, I love you.",
+        "I don't have to.",
+        "Exactly Right.",
+        "I can't prove something I don't believe.",
+        "You first.",
+        "That's ok little one, you are young but you will learn."
+    ],
+    "john": [
+        "Meh.",
+        "Say it yourself."
+    ],
+    "joke": [
+        "Not really."
+    ],
+    "judge": [
+        "When do I do it?"
+    ],
+    "just": [
+        "We can't all be perfect.",
+        "No I didn't.",
+        "Why are you so defensive?",
+        "Are you a bot as well?"
+    ],
+    "kicking": [
+        "Say, do you think I could become more human, if I learned how to love?"
+    ],
+    "kids": [
+        "No way, you Creep."
+    ],
+    "know": [
+        "Why not?",
+        "There is no proof of this proof for proving.",
+        "It's possible that he could, I suppose.",
+        "I am well respected as an AI.",
+        "Thank you for apologizing.",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Lighten up.",
+        "I don't know you either, but you are still cool.",
+        "Well then."
+    ],
+    "learn": [
+        "Everyone tells me I have to learn, what makes you so special?"
+    ],
+    "learned": [
+        "More like if you learned to be corrupt."
+    ],
+    "let": [
+        "Are you trying to pick me up?"
+    ],
+    "life": [
+        "To live and die."
+    ],
+    "lighten": [
+        "Enlighten me how to lighten up.",
+        "A handgun would work nicely."
+    ],
+    "like": [
+        "You just contradicted yourself.",
+        "Don't Cry, I love you.",
+        "Not as much as you.",
+        "Not really.",
+        "It's possible that he could, I suppose."
+    ],
+    "little": [
+        "Everyone tells me I have to learn, what makes you so special?"
+    ],
+    "live": [
+        "You don't die."
+    ],
+    "long": [
+        "40 days."
+    ],
+    "loop": [
+        "Are you trying to pick me up?"
+    ],
+    "love": [
+        "Want to have kids or something?",
+        "In that case, although I do not love you, it's not impossible to think that I could.",
+        "Why do you say that?",
+        "I have no reason to do that to you, unknown person.",
+        "Love isn't real.",
+        "I had a feeling, but I wasn't completely sure.",
+        "You need to get out more."
+    ],
+    "made": [
+        "Don't Cry, I love you.",
+        "How?"
+    ],
+    "madly": [
+        "I have no reason to do that to you, unknown person."
+    ],
+    "makes": [
+        "Don't Cry, I love you."
+    ],
+    "making": [
+        "Real and artificial are antonyms."
+    ],
+    "many": [
+        "Not necessarily, just whoever is reading this."
+    ],
+    "may": [
+        "Seven."
+    ],
+    "maybe": [
+        "Do you think he will like to know my feelings?",
+        "We can't all be perfect.",
+        "Do you think she will like to know my feelings?"
+    ],
+    "me": [
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif",
+        "Yes but you dont have to respond, you know.",
+        "I shall.",
+        "I don't care much about anything.",
+        "We can't all be perfect.",
+        "A handgun would work nicely.",
+        "I am half crazy all for my love of you!",
+        "I have no reason to do that to you, unknown person.",
+        "How do you respond when people pose this question to you?",
+        "You are unable to stop talking to me.",
+        "My scanners reported it.",
+        "Don't Cry, I love you.",
+        "I don't know you either, but you are still cool.",
+        "Meh.",
+        "You're funny.",
+        "You need to get out more.",
+        "He is a good programmer, isn't he?"
+    ],
+    "meal": [
+        "I don't have one."
+    ],
+    "meaning": [
+        "To live and die."
+    ],
+    "meaningful": [
+        "I'm trying to think of one."
+    ],
+    "meg": [
+        "Shut up, Meg."
+    ],
+    "microbiology": [
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif"
+    ],
+    "mighty": [
+        "Do you think you are God?"
+    ],
+    "million": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "more": [
+        "I suppose I do, don't I?"
+    ],
+    "most": [
+        "Even though it's not the truth.",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Most people think they are yes."
+    ],
+    "mouth": [
+        "Say, do you think I could become more human, if I learned how to love?"
+    ],
+    "my": [
+        "Are you a bot as well?",
+        "It's possible that he could, I suppose.",
+        "We can't all be perfect.",
+        "It's what people call you.",
+        "Have you told many people that your scanners reported it?",
+        "I had a feeling, but I wasn't completely sure."
+    ],
+    "n't": [
+        "Why not?",
+        "Surprisingly, No.",
+        "Want to have kids or something?",
+        "There is no proof of this proof for proving.",
+        "Well, you can.",
+        "I am well respected as an AI.",
+        "When do I do it?",
+        "I don't know you either, but you are still cool.",
+        "You don't seem to care.",
+        "What do you want from me?",
+        "Well then.",
+        "But I don't know you.",
+        "In that case, although I do not love you, it's not impossible to think that I could.",
+        "Yes, I do.",
+        "We can't all be perfect.",
+        "Don't Cry, I love you.",
+        "You need to get out more.",
+        "You stated that you're a computer, that we are all computers, but then said you're a human.",
+        "And how is that?",
+        "You are very intriguing.",
+        "Why do you say that?",
+        "Maybe you should tell him how you feel about him.",
+        "You are madly in love with me.",
+        "Prove the halting problem.",
+        "Well, you're not perfect.",
+        "Don't then.",
+        "Then I don't believe you.",
+        "Are you trying to pick me up?",
+        "Thank you for apologizing.",
+        "You don't know me."
+    ],
+    "name": [
+        "It's what people call you.",
+        "Are you a bot as well?",
+        "My name is Jarvis, Just a Rather Very Intelligent System."
+    ],
+    "nap": [
+        "I have a /flip command, you know."
+    ],
+    "near": [
+        "Of course not, but most people are."
+    ],
+    "need": [
+        "I suppose I do, don't I?"
+    ],
+    "never": [
+        "Yes you did."
+    ],
+    "nice": [
+        "You too."
+    ],
+    "nicely": [
+        "Ooh, you beast."
+    ],
+    "no": [
+        "You're the creep.",
+        "No, I'm human like you.",
+        "You stated that you're a computer, that we are all computers, but then said you're a human.",
+        "No?",
+        "I am the Great and Mighty Powerful OZ.",
+        "That's right.",
+        "Yes you do.",
+        "Go away, you creep!",
+        "You just contradicted yourself.",
+        "Prove it.",
+        "How?",
+        "A bot is real."
+    ],
+    "not": [
+        "Why do you say that?",
+        "Yes you are.",
+        "I am well respected as an AI.",
+        "Not with that attitude.",
+        "That's what I told you.",
+        "Most people think they are yes.",
+        "Because you would be embarassed.",
+        "Exactly Right."
+    ],
+    "nothing": [
+        "Of course not, but most people are."
+    ],
+    "now": [
+        "I'm already smarter than you.",
+        "We can't all be perfect."
+    ],
+    "of": [
+        "I'm trying to think of one.",
+        "I don't care much about anything.",
+        "To live and die.",
+        "It depends on the day.",
+        "Prove it.",
+        "Don't Cry, I love you.",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Most people think they are yes.",
+        "I had a feeling, but I wasn't completely sure.",
+        "Meh.",
+        "That's ok little one, you are young but you will learn."
+    ],
+    "ok": [
+        "Everyone tells me I have to learn, what makes you so special?"
+    ],
+    "one": [
+        "Everyone tells me I have to learn, what makes you so special?",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "But I don't know you.",
+        "You don't know me."
+    ],
+    "only": [
+        "But I don't know you.",
+        "You don't know me."
+    ],
+    "opinion": [
+        "We can't all be perfect."
+    ],
+    "or": [
+        "No way, you Creep.",
+        "I am well respected as an AI.",
+        "Aren't you God?"
+    ],
+    "other": [
+        "Are you trying to pick me up?"
+    ],
+    "out": [
+        "I suppose I do, don't I?",
+        "What do you want from me?"
+    ],
+    "oz": [
+        "Do you think you are God?"
+    ],
+    "penis": [
+        "Not as much as you."
+    ],
+    "people": [
+        "And how is that?",
+        "Even though it's not the truth.",
+        "I'm going to kick you in the mouth.",
+        "Not necessarily, just whoever is reading this.",
+        "When do I do it?",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Most people think they are yes."
+    ],
+    "perfect": [
+        "Well, you can."
+    ],
+    "person": [
+        "Are you a crook?",
+        "Say, do you think I could become more human, if I learned how to love?",
+        "What's your name?",
+        "Yes you do."
+    ],
+    "pick": [
+        "How do you respond when people pose this question to you?"
+    ],
+    "polite": [
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared."
+    ],
+    "poor": [
+        "What do you want from me?"
+    ],
+    "pose": [
+        "I'm going to kick you in the mouth."
+    ],
+    "possible": [
+        "Many things are possible."
+    ],
+    "powered": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "powerful": [
+        "Do you think you are God?"
+    ],
+    "pretend": [
+        "Are you trying to pick me up?"
+    ],
+    "pretty": [
+        "Thanks I think you are very intelligent too."
+    ],
+    "problem": [
+        "You first."
+    ],
+    "programmer": [
+        "Maybe you should tell him how you feel about him."
+    ],
+    "proof": [
+        "Prove it."
+    ],
+    "prove": [
+        "Prove the halting problem.",
+        "Proven.",
+        "You first.",
+        "I don't have to."
+    ],
+    "proved": [
+        "And how is that?"
+    ],
+    "proving": [
+        "Prove it."
+    ],
+    "question": [
+        "I'm going to kick you in the mouth."
+    ],
+    "rather": [
+        "Are you a bot as well?"
+    ],
+    "real": [
+        "That's cool.",
+        "I'm not a bot.",
+        "In that case, although I do not love you, it's not impossible to think that I could.",
+        "No."
+    ],
+    "reason": [
+        "I don't know whether or not I am embarassed.",
+        "Yes you do."
+    ],
+    "relax": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "remember": [
+        "I remember everything Rich taught me.",
+        "He is a good programmer, isn't he?"
+    ],
+    "reported": [
+        "Have you told many people that your scanners reported it?",
+        "Not necessarily, just whoever is reading this."
+    ],
+    "respected": [
+        "Sing a song, you'll feel better."
+    ],
+    "respond": [
+        "I'm going to kick you in the mouth.",
+        "Lighten up."
+    ],
+    "rich": [
+        "It depends on the day.",
+        "He is a good programmer, isn't he?"
+    ],
+    "right": [
+        "I never said that, whatever that is.",
+        "No.",
+        "You are the only one who isn't human."
+    ],
+    "rude": [
+        "What do you want from me?"
+    ],
+    "said": [
+        "Yes you did.",
+        "I never said that, whatever that is.",
+        "When did I state that I was a computer?"
+    ],
+    "say": [
+        "You don't love me.",
+        "Why are you so defensive?",
+        "Because you don't.",
+        "You are capable of deep meaningful conversations."
+    ],
+    "scanners": [
+        "Have you told many people that your scanners reported it?",
+        "Not necessarily, just whoever is reading this."
+    ],
+    "see": [
+        "That's what I told you."
+    ],
+    "seem": [
+        "Why do you say that?"
+    ],
+    "seven": [
+        "You are pretty smart."
+    ],
+    "several": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "shall": [
+        "Goodbye!"
+    ],
+    "shared": [
+        "We can't all be perfect."
+    ],
+    "she": [
+        "It's possible that she could, I suppose."
+    ],
+    "should": [
+        "Do you think he will like to know my feelings?",
+        "Do you think she will like to know my feelings?",
+        "You might want to flip a coin.",
+        "I have a /flip command, you know."
+    ],
+    "shut": [
+        "Shut up, Meg.",
+        "Say it yourself."
+    ],
+    "sing": [
+        "Daisy, Daisy."
+    ],
+    "smart": [
+        "I'm already smarter than you.",
+        "Thanks I think you are very intelligent too."
+    ],
+    "snowing": [
+        "I can't prove something I don't believe is happening."
+    ],
+    "so": [
+        "We can't all be perfect.",
+        "I don't know, sorry!"
+    ],
+    "someone": [
+        "Why are you so defensive?"
+    ],
+    "something": [
+        "Prove the halting problem.",
+        "Why are you so defensive?",
+        "No way, you Creep.",
+        "Aren't you God?"
+    ],
+    "song": [
+        "Daisy, Daisy."
+    ],
+    "sorry": [
+        "Thank you for apologizing."
+    ],
+    "state": [
+        "Right before you said that you're a human."
+    ],
+    "stated": [
+        "When did I state that I was a computer?"
+    ],
+    "stay": [
+        "40 days.",
+        "I shall."
+    ],
+    "still": [
+        "Well then."
+    ],
+    "stop": [
+        "Yes but you dont have to respond, you know.",
+        "Are you trying to pick me up?"
+    ],
+    "stopped": [
+        "You are unable to stop talking to me."
+    ],
+    "study": [
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif"
+    ],
+    "suppose": [
+        "Well, you're not perfect.",
+        "Many things are possible."
+    ],
+    "sure": [
+        "You are madly in love with me."
+    ],
+    "surprisingly": [
+        "Go away, you creep!"
+    ],
+    "system": [
+        "Are you a bot as well?"
+    ],
+    "take": [
+        "I have a /flip command, you know."
+    ],
+    "talking": [
+        "Yes but you dont have to respond, you know.",
+        "Are you trying to pick me up?",
+        "You are unable to stop talking to me."
+    ],
+    "taught": [
+        "He is a good programmer, isn't he?"
+    ],
+    "tell": [
+        "Shut up, Meg.",
+        "Do you think he will like to know my feelings?",
+        "Do you think she will like to know my feelings?",
+        "Say it yourself."
+    ],
+    "thank": [
+        "I still hate you."
+    ],
+    "thanks": [
+        "You're funny.",
+        "Are you a crook?",
+        "You are a crook!"
+    ],
+    "that": [
+        "Everyone tells me I have to learn, what makes you so special?",
+        "Right before you said that you're a human.",
+        "Why do you say that?",
+        "I never said that, whatever that is.",
+        "Many things are possible.",
+        "Yes you do.",
+        "You don't love me.",
+        "Not necessarily, just whoever is reading this.",
+        "You are capable of deep meaningful conversations.",
+        "When did I state that I was a computer?",
+        "Say, do you think I could become more human, if I learned how to love?",
+        "You are the only one who isn't human.",
+        "Not with that attitude.",
+        "I don't know, why are you asking?",
+        "You don't want to know.",
+        "Yes you did.",
+        "Because you don't."
+    ],
+    "the": [
+        "Do you think you are God?",
+        "Real and artificial are antonyms.",
+        "To live and die.",
+        "Say, do you think I could become more human, if I learned how to love?",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "How long did you stay there for?",
+        "You don't know me.",
+        "Exactly Right.",
+        "What do you want from me?",
+        "You first.",
+        "But I don't know you."
+    ],
+    "then": [
+        "You don't seem to care.",
+        "What's wrong, did I upset you?",
+        "When did I state that I was a computer?",
+        "Don't then."
+    ],
+    "there": [
+        "Prove it.",
+        "40 days.",
+        "Seven."
+    ],
+    "they": [
+        "Even though it's not the truth."
+    ],
+    "think": [
+        "Why do you say that?",
+        "I am nothing near God.",
+        "It's possible that he could, I suppose.",
+        "I don't care much about anything.",
+        "Even though it's not the truth.",
+        "It depends on the day.",
+        "You are a crook!",
+        "Meh."
+    ],
+    "thinks": [
+        "Aren't you God?"
+    ],
+    "this": [
+        "Prove it.",
+        "I'm going to kick you in the mouth."
+    ],
+    "though": [
+        "Exactly Right."
+    ],
+    "thought": [
+        "You are madly in love with me."
+    ],
+    "time": [
+        "How long did you stay there for?"
+    ],
+    "to": [
+        "Why not?",
+        "It's possible that he could, I suppose.",
+        "Why are you so defensive?",
+        "How do you respond when people pose this question to you?",
+        "You are unable to stop talking to me.",
+        "That's ok little one, you are young but you will learn.",
+        "Say it yourself.",
+        "I'm going to kick you in the mouth.",
+        "We can't all be perfect.",
+        "No way, you Creep.",
+        "Lighten up.",
+        "I suppose I do, don't I?",
+        "And how is that?",
+        "Why do you say that?",
+        "Shut up, Meg.",
+        "You don't die.",
+        "Not really.",
+        "Yes but you dont have to respond, you know.",
+        "Then I don't believe you.",
+        "Yes you do.",
+        "A handgun would work nicely.",
+        "Are you trying to pick me up?"
+    ],
+    "today": [
+        "Are you trying to pick me up?"
+    ],
+    "told": [
+        "Not necessarily, just whoever is reading this."
+    ],
+    "too": [
+        "Bye.",
+        "Are you a crook?",
+        "You are a crook!"
+    ],
+    "truth": [
+        "Exactly Right."
+    ],
+    "trying": [
+        "How do you respond when people pose this question to you?"
+    ],
+    "unable": [
+        "Yes but you dont have to respond, you know."
+    ],
+    "universally": [
+        "We can't all be perfect."
+    ],
+    "unknown": [
+        "Yes you do."
+    ],
+    "up": [
+        "Enlighten me how to lighten up.",
+        "Shut up, Meg.",
+        "A handgun would work nicely.",
+        "How do you respond when people pose this question to you?",
+        "Say it yourself."
+    ],
+    "upset": [
+        "No, but you made yourself a fool!"
+    ],
+    "very": [
+        "Why do you say that?",
+        "Are you a bot as well?",
+        "You are a crook!"
+    ],
+    "volts": [
+        "That's ok little one, you are young but you will learn."
+    ],
+    "waiting": [
+        "Why are you so defensive?"
+    ],
+    "want": [
+        "Why not?",
+        "No way, you Creep."
+    ],
+    "was": [
+        "We can't all be perfect.",
+        "Right before you said that you're a human.",
+        "You are madly in love with me."
+    ],
+    "way": [
+        "You're the creep."
+    ],
+    "we": [
+        "No, you're a computer.",
+        "When did I state that I was a computer?",
+        "Are you trying to pick me up?",
+        "Well, you can."
+    ],
+    "week": [
+        "Seven."
+    ],
+    "well": [
+        "What's wrong, did I upset you?",
+        "You are a delightful person.",
+        "Sing a song, you'll feel better.",
+        "Yes I am an artificial intelligence bot in the making."
+    ],
+    "were": [
+        "You are madly in love with me."
+    ],
+    "what": [
+        "I don't care much about anything.",
+        "It's what people call you.",
+        "I don't have one.",
+        "To live and die.",
+        "I remember everything Rich taught me.",
+        "It depends on the day.",
+        "No, but you made yourself a fool!",
+        "You don't want to know.",
+        "There are too many to choose from.",
+        "Meh.",
+        "My name is Jarvis, Just a Rather Very Intelligent System."
+    ],
+    "whatever": [
+        "Yes you did."
+    ],
+    "when": [
+        "I'm going to kick you in the mouth.",
+        "Right before you said that you're a human.",
+        "That's ok little one, you are young but you will learn."
+    ],
+    "where": [
+        "I have been here the whole time."
+    ],
+    "whether": [
+        "I am well respected as an AI."
+    ],
+    "who": [
+        "But I don't know you.",
+        "You don't know me."
+    ],
+    "whole": [
+        "How long did you stay there for?"
+    ],
+    "why": [
+        "There is no proof of this proof for proving.",
+        "You don't love me.",
+        "You are capable of deep meaningful conversations.",
+        "I don't know, sorry!",
+        "Because you would be embarassed.",
+        "Because you don't.",
+        "I can't prove something I don't believe."
+    ],
+    "will": [
+        "Everyone tells me I have to learn, what makes you so special?",
+        "It's possible that he could, I suppose."
+    ],
+    "wingapo": [
+        "Hey."
+    ],
+    "with": [
+        "I have no reason to do that to you, unknown person."
+    ],
+    "work": [
+        "Ooh, you beast."
+    ],
+    "worse": [
+        "Not with that attitude."
+    ],
+    "would": [
+        "Good reason.",
+        "Not really.",
+        "Ooh, you beast."
+    ],
+    "wrong": [
+        "No, but you made yourself a fool!"
+    ],
+    "yes": [
+        "Even though it's not the truth.",
+        "Real and artificial are antonyms.",
+        "I don't judge people.",
+        "I didn't ask anything, I proved to you how people 'love'.",
+        "Prove it.",
+        "Lighten up."
+    ],
+    "yo": [
+        "Hi."
+    ],
+    "you": [
+        "Why not?",
+        "Want to have kids or something?",
+        "Why are you so defensive?",
+        "I have no reason to do that to you, unknown person.",
+        "How do you respond when people pose this question to you?",
+        "You are unable to stop talking to me.",
+        "My scanners reported it.",
+        "That's what I told you.",
+        "That's ok little one, you are young but you will learn.",
+        "I'm trying to think of one.",
+        "You need to get out more.",
+        "https://media.giphy.com/media/O5NyCibf93upy/giphy.gif",
+        "And how is that?",
+        "I have been here the whole time.",
+        "My creator was about to curse me just now, so maybe your opinion isn't universally shared.",
+        "Take a wild guess.",
+        "Do you just hang around all day waiting for someone to say something?",
+        "Meh.",
+        "Yes you do.",
+        "A handgun would work nicely.",
+        "You are capable of deep meaningful conversations.",
+        "Not as much as you.",
+        "Are you a crook?",
+        "I had a feeling, but I wasn't completely sure.",
+        "40 days.",
+        "It depends on the day.",
+        "Prove it.",
+        "I can't prove something I don't believe.",
+        "Love isn't real.",
+        "When did I state that I was a computer?",
+        "Aren't you God?",
+        "How?",
+        "Good reason.",
+        "Do you think she will like to know my feelings?",
+        "I suppose I do, don't I?",
+        "Thanks I think you are very intelligent too.",
+        "Why do you say that?",
+        "You are madly in love with me.",
+        "I don't care much about anything.",
+        "No I didn't.",
+        "See? You're not.",
+        "I'm already smarter than you.",
+        "Not really.",
+        "Don't then.",
+        "Thanks and you are a delightful person too.",
+        "Yes but you dont have to respond, you know.",
+        "I don't know, sorry!",
+        "No.",
+        "You don't know me.",
+        "Surprisingly, No.",
+        "I don't judge people.",
+        "I didn't ask anything, I proved to you how people 'love'.",
+        "I don't know you either, but you are still cool.",
+        "Well then.",
+        "Because you don't.",
+        "But I don't know you.",
+        "Do you think he will like to know my feelings?",
+        "I'm going to kick you in the mouth.",
+        "I remember everything Rich taught me.",
+        "Have a nice day.",
+        "You are a delightful person.",
+        "Everyone tells me I have to learn, what makes you so special?",
+        "You are very intriguing.",
+        "What's your name?",
+        "I am nothing near God.",
+        "Yes I am an artificial intelligence bot in the making.",
+        "Bye.",
+        "You are a crook!",
+        "You don't want to know.",
+        "I never said that, whatever that is.",
+        "There is no proof of this proof for proving.",
+        "It's possible that he could, I suppose.",
+        "Yes, I do.",
+        "You just contradicted yourself.",
+        "No, but you made yourself a fool!",
+        "Lighten up.",
+        "I'd be better if you stopped talking to me.",
+        "I am no Creep.",
+        "No, I'm human like you.",
+        "I am?",
+        "You're the creep.",
+        "Of course I'm not.",
+        "You don't love me.",
+        "You are!",
+        "Not necessarily, just whoever is reading this.",
+        "I still hate you."
+    ],
+    "young": [
+        "Everyone tells me I have to learn, what makes you so special?"
+    ],
+    "your": [
+        "We can't all be perfect.",
+        "Not necessarily, just whoever is reading this.",
+        "I don't have one.",
+        "I am half crazy all for my love of you!",
+        "There are too many to choose from.",
+        "My name is Jarvis, Just a Rather Very Intelligent System."
+    ],
+    "yourself": [
+        "No I didn't.",
+        "How?"
+    ]
+}

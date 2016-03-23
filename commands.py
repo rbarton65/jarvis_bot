@@ -19,6 +19,8 @@ import sys
 import giphypop
 import pythonUntappd
 import foursquare
+import operator
+import csv
 from sumy.parsers.html import HtmlParser
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
@@ -321,6 +323,51 @@ def tap(text):
 		return ''.join(result)
 	except:
 		return "Sadly there's no data for that bar."
+
+def karma(text):
+	karma = {}
+	with open('karma.csv', 'rt') as csvfile:
+		reader = csv.DictReader(csvfile)
+		for row in reader:
+			karma[row['name']] = int(row['count'])
+	
+	m = re.search(r'[a-zA-Z0-9]*\+\+|[a-zA-Z0-9]*--|/karma', text).group(0)
+	if '++' in m:
+		try:
+			karma[m.replace('++', '')] += 1
+		except:
+			karma[m.replace('++', '')] = 1
+		result = "%s's karma has increased to %s." % (m.replace('++', ''), karma[m.replace('++', '')])
+	elif '--' in text:
+		try:
+			karma[m.replace('--', '')] -= 1
+		except:
+			karma[m.replace('--', '')] = -1
+		result = "%s's karma has decreased to %s." % (m.replace('--', ''), karma[m.replace('--', '')])
+	else:
+		keyword = '/karma '
+		try:
+			name = text.split(keyword, 1)[1].split(' ')[0]
+			try:
+				result = "%s's karma is %s." % (name, karma[name])
+			except:
+				result = "%s doesn't have any karma." % (name)
+		except:
+			result_list = ['Top 5 Karma:']
+			karma_sorted = sorted(karma.items(), key=operator.itemgetter(1),  reverse=True)
+			for i in karma_sorted:
+				result_list.append("%s: %s" % (i[0], i[1]))
+			result = '\n'.join(result_list[:6])
+	
+	with open('karma.csv', 'w') as csvfile:
+		fieldnames = ['name', 'count']
+		writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+		writer.writeheader()
+		for names in karma:
+			writer.writerow({'name': names, 'count': karma[names]})
+	
+	return result
+
 
 def cases(command, text, group):
 	switcher = {

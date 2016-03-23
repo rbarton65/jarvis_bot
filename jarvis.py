@@ -35,6 +35,9 @@ def parse_message(message, bot, messages):
 			print (text)
 			if commands.words_in_string(command_list, text.lower()):
 				bot.post(commands.cases(commands.words_in_string(command_list, text.lower()).pop(), text.lower(), group))
+			elif re.search(r'[a-zA-Z0-9]*\+\+|[a-zA-Z0-9]*--|/karma', text.lower()):
+				print ('yes')
+				bot.post(commands.karma(text.lower()))
 			elif text.lower() == "ping":
 				bot.post("pong")
 			elif commands.summary(text):

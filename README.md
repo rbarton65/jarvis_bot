@@ -94,6 +94,9 @@ Karma uses a csv file to keep track of karma points given or taken from specifie
 
 * Specify Jarvis's name for him to respond with his chatbot capability.
 
+## How it Works
+Jarvis has multiple files, including a port listening script, the main jarvis file, and command files. The server listens to the specified port for any data sent from the GroupMe chatroom. This data comes in the format of a json file, which can be manipulated to extract the text and perform the necessary commands based on the text. The result is a text format that the bot posts as a reply to the GroupMe chatroom.
+
 ## Ideas to Implement in the Future
 
 * Reminders

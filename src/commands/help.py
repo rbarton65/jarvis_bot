@@ -3,7 +3,7 @@ import importlib
 
 def main(message_object):
     '''Provides description on available commands'''
-    command_file = open('wilson/commands.txt', 'r')
+    command_file = open('src/commands.txt', 'r')
     commands = [line.replace('\n', '') for line in command_file.readlines()]
 
     if message_object.text.find('/help ') > -1:

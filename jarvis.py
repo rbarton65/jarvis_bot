@@ -4,7 +4,7 @@ import json
 import importlib
 
 
-from wilson.respond import interpret
+from src.respond import interpret
 
 
 

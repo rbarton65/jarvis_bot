@@ -38,7 +38,7 @@ def check_for_keywords(message_object):
 
     for command in commands:
         if message_object.text.find("/%s" % command) > -1:
-            module = importlib.import_module("wilson.commands.%s" % command)
+            module = importlib.import_module("src.commands.%s" % command)
             importlib.reload(module)
             return module.main(message_object)
         else:

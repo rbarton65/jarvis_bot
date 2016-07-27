@@ -12,14 +12,17 @@ def main(message_object):
 
         if search == "help":
             loci = len(message_object.name) + 1
+
             text = "Hey everyone, @%s is trying to be " \
-                    "funny asking for help on the help " \
-                    "command. Hint, you're not." % message_object.name
+                "funny asking for help on the help " \
+                "command. Hint, you're not." % message_object.name
+
             attachments = {
                    "loci": [[14, loci]],
                    "type": "mentions",
                    "user_ids": [message_object.user_id]
                    }
+
             return text, attachments
 
         for command in commands:
@@ -33,7 +36,7 @@ def main(message_object):
                 pass
 
         text = "This command is not available. For a list" \
-                "of available commands, type '/help'"
+            "of available commands, type '/help'"
 
         return text, None
 

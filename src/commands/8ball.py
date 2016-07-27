@@ -32,9 +32,10 @@ def main(message_object):
         attachment = None
     return text, attachment
 
+
 def help():
     text = "Command: /8ball\n" \
            "Description: Responds to a yes or no question\n" \
-           "Usage: /8ball {question}" 
+           "Usage: /8ball {question}"
 
     return text, None

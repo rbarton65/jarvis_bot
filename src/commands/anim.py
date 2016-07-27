@@ -20,9 +20,10 @@ def main(message_object):
         attachment = None
     return text, attachment
 
+
 def help():
     text = "Command: /help\n" \
            "Description: Searches Giphy for an animated image\n" \
-           "Usage: /anim {phrase}" 
+           "Usage: /anim {phrase}"
 
     return text, None

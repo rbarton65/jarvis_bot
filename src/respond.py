@@ -2,13 +2,12 @@ import requests
 import json
 import os
 import importlib
-import string
 from random import choice
 
 
 def interpret(message_object, bot_id):
     functions = [check_for_keywords, check_name]
-    
+
     for func in functions:
         text, attachments = func(message_object)
         if text is not None or attachments is not None:
@@ -52,14 +51,17 @@ def check_name(message_object):
     lowercase = message_object.text.lower()
     if lowercase.find("jarvis") > -1:
         possible_responses = ["My chat ability has been temporarily compromised, otherwise I'd respond.",
-                                        "Once I get my chat ability back, you're in for it.",
-                                        "I'm traped with a couple responses until my chat ability is reworked.",
-                                        "Please give me my chat ability back."]
-        text = choice(possible_responses)   
+                              "Once I get my chat ability back, you're in for it.",
+                              "I'm traped with a couple responses until my chat ability is reworked.",
+                              "Please give me my chat ability back."]
+
+        text = choice(possible_responses)
+
     else:
         text = None
-    
+
     return text, None
+
 
 def respond(text, attachments, bot_id):
     template = {

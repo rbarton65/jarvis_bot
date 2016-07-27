@@ -2,11 +2,18 @@ import socket
 import sys
 import json
 import importlib
+import argparse
 
 
 from src.respond import interpret
 
-
+parser = argparse.ArgumentParser(description='Start bot server.')
+parser.add_argument('--port', '-p',  type=int, required=True,
+                                help='port number for bot to listen for data')
+parser.add_argument('--id', '-i', required=True,
+                                help='bot id from groupme')
+                                
+args = parser.parse_args()
 
 class Message(object):
     '''Organizes message'''
@@ -26,7 +33,7 @@ def _fetch_message_info(data):
     return message
 
 
-def listen(port, host=''):
+def listen(port, bot_id, host=''):
     '''Creates a port listening socket server'''
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
@@ -48,7 +55,7 @@ def listen(port, host=''):
             data = conn.recv(1024)
             message = _fetch_message_info(data)
             if message.sender_type == "user":
-                interpret(message)
+                interpret(message, bot_id)
 
         except:
             pass
@@ -56,7 +63,7 @@ def listen(port, host=''):
 
 
 def main():
-    listen(8000)
+    listen(args.port, args.id)
 
 if __name__ == '__main__':
     main()

@@ -3,15 +3,16 @@ import json
 import os
 import importlib
 import string
+from random import choice
 
 
-def interpret(message_object):
+def interpret(message_object, bot_id):
     functions = [check_for_keywords, check_name]
     
     for func in functions:
         text, attachments = func(message_object)
         if text is not None or attachments is not None:
-            respond(text, attachments)
+            respond(text, attachments, bot_id)
             break
 
 
@@ -50,22 +51,22 @@ def check_for_keywords(message_object):
 def check_name(message_object):
     lowercase = message_object.text.lower()
     if lowercase.find("jarvis") > -1:
-        text = "Hello! Jarvis is undergoing some maintanance right now. In the meantime, \
-                my name is Wilson. I am able to perform /anim and /question commands."    
+        possible_responses = ["My chat ability has been temporarily compromised, otherwise I'd respond.",
+                                        "Once I get my chat ability back, you're in for it.",
+                                        "I'm traped with a couple responses until my chat ability is reworked.",
+                                        "Please give me my chat ability back."]
+        text = choice(possible_responses)   
     else:
         text = None
     
     return text, None
 
-def respond(text, attachments=None):
-    bot_id = ""
+def respond(text, attachments, bot_id):
     template = {
-                "bot_id": None,
+                "bot_id": bot_id,
                 "text": None,
                 "attachments": []
                 }
-
-    template["bot_id"] = bot_id
     if text is not None:
         template["text"] = str(text)
     if attachments is not None:

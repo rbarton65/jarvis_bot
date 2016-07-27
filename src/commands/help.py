@@ -25,7 +25,7 @@ def main(message_object):
         for command in commands:
 
             if search.find(command) > -1:
-                module = importlib.import_module("wilson.commands.%s" % command)
+                module = importlib.import_module("src.commands.%s" % command)
                 importlib.reload(module)
                 return module.help()
 

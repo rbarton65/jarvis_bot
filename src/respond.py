@@ -4,6 +4,8 @@ import os
 import importlib
 from random import choice
 
+from src.brain.brain import Brain
+
 
 def interpret(message_object, bot_id):
     functions = [check_for_keywords, check_name]
@@ -13,21 +15,6 @@ def interpret(message_object, bot_id):
         if text is not None or attachments is not None:
             respond(text, attachments, bot_id)
             break
-
-
-def who_said_that(message_object):
-    sender = message_object.name
-    sender_id = message_object.user_id
-
-    attachments = {
-                   "loci": [[0, 12]],
-                   "type": "mentions",
-                   "user_ids": None
-                   }
-
-    attachments["user_ids"] = [sender_id]
-    text = "@%s said this" % sender
-    return text, attachments
 
 
 def check_for_keywords(message_object):
@@ -50,17 +37,11 @@ def check_for_keywords(message_object):
 def check_name(message_object):
     lowercase = message_object.text.lower()
     if lowercase.find("jarvis") > -1:
-        possible_responses = ["My chat ability has been temporarily compromised, otherwise I'd respond.",
-                              "Once I get my chat ability back, you're in for it.",
-                              "I'm traped with a couple responses until my chat ability is reworked.",
-                              "Please give me my chat ability back."]
-
-        text = choice(possible_responses)
+        brain = Brain(message_object)
+        return brain.who_said_that()
 
     else:
-        text = None
-
-    return text, None
+        return None, None
 
 
 def respond(text, attachments, bot_id):

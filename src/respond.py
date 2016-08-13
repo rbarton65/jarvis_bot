@@ -41,8 +41,11 @@ def check_name(message_object):
     if lowercase.find("jarvis") > -1:      
         return brain.generate_response()
     else:
-        brain.add_to_db()
-        return None, None
+        if choice(range(19)) == 14:
+            return brain.generate_response()
+        else:
+            brain.add_to_db()
+            return None, None
 
 
 def respond(text, attachments, bot_id):

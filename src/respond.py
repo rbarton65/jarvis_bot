@@ -13,6 +13,7 @@ def interpret(message_object, bot_id):
     for func in functions:
         text, attachments = func(message_object)
         if text is not None or attachments is not None:
+            print("going to respond")
             respond(text, attachments, bot_id)
             break
 
@@ -36,11 +37,11 @@ def check_for_keywords(message_object):
 
 def check_name(message_object):
     lowercase = message_object.text.lower()
-    if lowercase.find("jarvis") > -1:
-        brain = Brain(message_object)
-        return brain.who_said_that()
-
+    brain = Brain(message_object)
+    if lowercase.find("jarvis") > -1:      
+        return brain.generate_response()
     else:
+        brain.add_to_db()
         return None, None
 
 
@@ -57,3 +58,4 @@ def respond(text, attachments, bot_id):
     headers = {'content-type': 'application/json'}
     response = requests.post("https://api.groupme.com/v3/bots/post", data=json.dumps(template), headers=headers)
     print(response.status_code, response.reason)
+

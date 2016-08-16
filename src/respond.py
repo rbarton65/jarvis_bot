@@ -8,7 +8,7 @@ from src.brain.brain import Brain
 
 
 def interpret(message_object, bot_id):
-    functions = [check_for_keywords, check_name]
+    functions = [shut_up_meg, check_for_keywords, check_name]
 
     for func in functions:
         text, attachments = func(message_object)
@@ -46,6 +46,13 @@ def check_name(message_object):
         else:
             brain.add_to_db()
             return None, None
+            
+            
+def shut_up_meg(message_object):
+    if message_object.user_id == "2994974" and choice(range(14)) == 7:
+        return "Shut up, Meg.", None
+    else:
+        return None, None
 
 
 def respond(text, attachments, bot_id):

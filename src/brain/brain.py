@@ -66,7 +66,7 @@ class Brain(object):
 class Markov(object):
 
     def __init__(self, message, sender):
-        self.message = message
+        self.message = message.lower()
         self.sender = sender
         self.cache = self._fetch_brain()   
         self._database()

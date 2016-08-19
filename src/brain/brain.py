@@ -99,22 +99,22 @@ class Markov(object):
         
         for sentence in sentences:
             words = word_tokenize(sentence)
-            if len(words) > 3:
+            if len(words) > 2:
                 words.append(end)
-                for i in range(len(words) - 3):
-                    yield(words[i], words[i+1], words[i+2], words[i+3])
+                for i in range(len(words) - 2):
+                    yield(words[i], words[i+1], words[i+2])
             else:
                 pass
 
     def _database(self):
         print('creating new database')
-        for w1,w2,w3,w4 in self._create_tuples():
-            key = (w1,w2,w3)
-            print(key, w4)
+        for w1,w2,w3 in self._create_tuples():
+            key = (w1,w2)
+            print(key, w3)
             if key in self.cache:
-                self.cache[key].append(w4)
+                self.cache[key].append(w3)
             else:
-                self.cache[key] = [w4]
+                self.cache[key] = [w3]
     
     def _untokenize(self, words):
         """
@@ -138,18 +138,17 @@ class Markov(object):
             response = word_tokenize(sent_tokenize(self.message)[0])
         
         else:
-        
-            words = word_tokenize(choice(sentences))
-            first_word, second_word, third_word = words[0], words[1], words[2]
-            
             response = []
+
+            words = word_tokenize(choice(sentences))
+            response.append(words[0])
+            first_word, second_word = words[1], words[2]
             
             while True:
                 response.append(first_word)
-                first_word, second_word, third_word = second_word, third_word, choice(self.cache[(first_word, second_word, third_word)])
-                if third_word == end:
+                first_word, second_word = second_word, choice(self.cache[(first_word, second_word)])
+                if second_word == end:
                     response.append(first_word)
-                    response.append(second_word)
                     break
         
         for i,name in enumerate(response):

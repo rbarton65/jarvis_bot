@@ -38,18 +38,15 @@ def check_for_keywords(message_object):
 def check_name(message_object):
     lowercase = message_object.text.lower()
     brain = Brain(message_object)
-    if lowercase.find("jarvis") > -1:      
+    if lowercase.find("jarvis") > -1 or choice(range(14)) == 14:
         return brain.generate_response()
     else:
-        if choice(range(19)) == 14:
-            return brain.generate_response()
-        else:
-            brain.add_to_db()
-            return None, None
+        brain.add_to_db()
+        return None, None
             
             
 def shut_up_meg(message_object):
-    if message_object.user_id == "2994974" and choice(range(14)) == 7:
+    if message_object.user_id == "2994974" and choice(range(24)) == 7:
         return "Shut up, Meg.", None
     else:
         return None, None

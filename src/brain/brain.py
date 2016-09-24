@@ -4,6 +4,7 @@ from ast import literal_eval
 from random import choice
 from nltk import word_tokenize, sent_tokenize
 
+start = '<<START>>'
 end = '<<END>>'
 
 class Brain(object):
@@ -99,22 +100,23 @@ class Markov(object):
         
         for sentence in sentences:
             words = word_tokenize(sentence)
-            if len(words) > 2:
+            if len(words) > 3:
+                words = [start] + words
                 words.append(end)
-                for i in range(len(words) - 2):
-                    yield(words[i], words[i+1], words[i+2])
+                for i in range(len(words) - 3):
+                    yield(words[i], words[i+1], words[i+2], words[i+3])
             else:
                 pass
 
     def _database(self):
         print('creating new database')
-        for w1,w2,w3 in self._create_tuples():
-            key = (w1,w2)
-            print(key, w3)
+        for w1,w2,w3,w4 in self._create_tuples():
+            key = (w1,w2,w3)
+            print(key, w4)
             if key in self.cache:
-                self.cache[key].append(w3)
+                self.cache[key].append(w4)
             else:
-                self.cache[key] = [w3]
+                self.cache[key] = [w4]
     
     def _untokenize(self, words):
         """
@@ -139,20 +141,44 @@ class Markov(object):
         
         else:
             response = []
-
-            words = word_tokenize(choice(sentences))
-            response.append(words[0])
-            first_word, second_word = words[1], words[2]
+            while True:
+                words = word_tokenize(choice(sentences))
+                seed = choice(range(len(words)-3))
+                print(seed)
+                if ('<<START>>', words[seed], words[seed+1]) in self.cache:
+                    first_word, second_word, third_word = words[seed], words[seed+1], words[seed+2]
+                    break
+            
             
             while True:
                 response.append(first_word)
-                first_word, second_word = second_word, choice(self.cache[(first_word, second_word)])
-                if second_word == end:
+                first_word, second_word, third_word = second_word, third_word, choice(self.cache[(first_word, second_word, third_word)])
+                if third_word == end:
                     response.append(first_word)
+                    response.append(second_word)
                     break
         
-        for i,name in enumerate(response):
-            if name.lower() == "jarvis":
-                response[i] = self.sender.split(' ')[0]
+        if response != words:
+            for i,name in enumerate(response):
+                if name.lower() == "jarvis":
+                    response[i] = self.sender.split(' ')[0]
+            result = self._untokenize(response)
+            
+        else:
+            random_sent = ["you're not worth talking to.",
+                           "talking to you doesn't bring any benefits.",
+                           "that's nice.",
+                           "i'm not surprised.",
+                           "are you sure you can type?",
+                           "being honest is a good thing.",
+                           "very funny.",
+                           "i know a dog with your name",
+                           "i have a life of my own to worry about",
+                           "i have bigger things on my mind",
+                           "are you on something?",
+                           "sometimes i don't know whether to laugh at you or pity you."
+                            ]
+            result = choice(random_sent)
         
-        return self._untokenize(response)
+        return result
+

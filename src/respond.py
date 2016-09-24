@@ -38,7 +38,7 @@ def check_for_keywords(message_object):
 def check_name(message_object):
     lowercase = message_object.text.lower()
     brain = Brain(message_object)
-    if lowercase.find("jarvis") > -1 or choice(range(14)) == 14:
+    if lowercase.find("jarvis") > -1 or choice(range(24)) == 0:
         return brain.generate_response()
     else:
         brain.add_to_db()
